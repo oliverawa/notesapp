@@ -45,7 +45,6 @@ function App() {
   ];
   return (
     <div className="App">
-      <h1>Simple React Carousel</h1>
         <h1>Simple modified content</h1>
       <Carousel images={images} />
     </div>
