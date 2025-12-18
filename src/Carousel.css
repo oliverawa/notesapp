@@ -18,7 +18,7 @@
   transition: background-color 0.3s;
 }
 .carousel__btn:hover {
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(139, 20, 20, 0.8);
 }
 .carousel__btn--prev {
   left: 0;
